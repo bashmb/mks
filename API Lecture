@@ -1,0 +1,9 @@
+API Lecture
+
+-- design your API so that it makes sense to the audience.  Who they are and what they are trying to accomplish.
+
+Sinatra:  a wrapper around Rack.
+
+Whenever stuck, examine documentation.
+	See endpoint reference.
+	Spotify has /v1/
